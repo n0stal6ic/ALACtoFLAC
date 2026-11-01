@@ -1,5 +1,6 @@
 # ALACtoFLAC
 Simple python script to transcode ALAC into level 8 FLAC losslessly.
+Keeps all metadata, covers, vorbis comments, and more intact.
 
 # Requirements:
 ``flac.exe`` & ``ffmpeg.exe``
